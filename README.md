@@ -2,6 +2,7 @@
 Completed this project as part of my I with PowerBI Internship with United lietuork of Professionals (UMP).
 
 Key highlights:
+
 1.Contributed to the development of intricate KPIs and dynamic, interactive Power BI interfaces.
 
 2.Collaborated with stakeholders to understand their requirements and translated them into effective Power BI solutions.
